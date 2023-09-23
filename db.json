@@ -1,10 +1,244 @@
 {
-  "users": [
+  "products": [
     {
+      "name": "Top",
+      "image": "https://burst.shopifycdn.com/photos/a-model-in-summer-fashion-with-grey-backdrop.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "Zara",
+      "price": 2500,
+      "category": "top-wear",
+      "gender": "female",
       "id": 1,
-      "name": "Gertrudis Tatterton",
-      "age": 18,
-      "email": "gtatterton0@ehow.com"
+      "sales": 532
+    },
+    {
+      "name": "Shoe",
+      "image": "https://burst.shopifycdn.com/photos/boots-on-blue.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "H&M",
+      "price": 4000,
+      "category": "shoes",
+      "gender": "female",
+      "id": 3,
+      "sales": 218
+    },
+    {
+      "name": "Jeans",
+      "image": "https://burst.shopifycdn.com/photos/a-model-in-khakis-holding-orchids.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "H&M",
+      "price": 3000,
+      "category": "bottom-wear",
+      "gender": "female",
+      "id": 4,
+      "sales": 379
+    },
+    {
+      "name": "Shoe",
+      "image": "https://burst.shopifycdn.com/photos/pink-summer-outfit.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "Urbanic",
+      "price": 1500,
+      "category": "shoes",
+      "gender": "female",
+      "id": 5,
+      "sales": 125
+    },
+    {
+      "name": "Top",
+      "image": "https://burst.shopifycdn.com/photos/confident-young-woman.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "Zara",
+      "price": 3500,
+      "category": "top-wear",
+      "gender": "female",
+      "id": 6,
+      "sales": 289
+    },
+    {
+      "name": "Jeans",
+      "image": "https://burst.shopifycdn.com/photos/model-laughs-barefoot.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "H&M",
+      "price": 2500,
+      "category": "bottom-wear",
+      "gender": "female",
+      "id": 7,
+      "sales": 202
+    },
+    {
+      "name": "Shoe",
+      "image": "https://burst.shopifycdn.com/photos/studded-flats.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "Urbanic",
+      "price": 4000,
+      "category": "shoes",
+      "gender": "female",
+      "id": 8,
+      "sales": 154
+    },
+    {
+      "name": "Shirt",
+      "image": "https://burst.shopifycdn.com/photos/mens-fashion-man-in-shirt-and-jeans-leaning-on-bicycle.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "Puma",
+      "price": 3000,
+      "category": "top-wear",
+      "gender": "male",
+      "id": 9,
+      "sales": 427
+    },
+    {
+      "name": "Shirt",
+      "image": "https://burst.shopifycdn.com/photos/mens-fashion-close-up-shirt-tucked-in-leaning.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "Puma",
+      "price": 2000,
+      "category": "top-wear",
+      "gender": "male",
+      "id": 10,
+      "sales": 359
+    },
+    {
+      "name": "Blazer",
+      "image": "https://burst.shopifycdn.com/photos/fashionable-man-in-hat.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "Adidas",
+      "price": 3500,
+      "category": "top-wear",
+      "gender": "male",
+      "id": 11,
+      "sales": 205
+    },
+    {
+      "name": "Jeans",
+      "image": "https://burst.shopifycdn.com/photos/casual-man-sits-on-rock.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "H&M",
+      "price": 1500,
+      "category": "bottom-wear",
+      "gender": "male",
+      "id": 13,
+      "sales": 101
+    },
+    {
+      "name": "Shoe",
+      "image": "https://burst.shopifycdn.com/photos/mens-leather-dress-shoes.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "Nike",
+      "price": 4500,
+      "category": "shoes",
+      "gender": "male",
+      "id": 14,
+      "sales": 304
+    },
+    {
+      "name": "Shoe",
+      "image": "https://burst.shopifycdn.com/photos/right-foot-all-black-sneaker.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "Adidas",
+      "price": 5000,
+      "category": "shoes",
+      "gender": "male",
+      "id": 15,
+      "sales": 257
+    },
+    {
+      "name": "Jeans",
+      "image": "https://burst.shopifycdn.com/photos/man-sits-and-laughs.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "Puma",
+      "price": 1999,
+      "category": "bottom-wear",
+      "gender": "male",
+      "id": 16,
+      "sales": 189
+    },
+    {
+      "name": "Shirt",
+      "image": "https://burst.shopifycdn.com/photos/light-men-s-dress-shirt.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "H&M",
+      "price": 1500,
+      "category": "top-wear",
+      "gender": "male",
+      "id": 17,
+      "sales": 224
+    },
+    {
+      "name": "Shoe",
+      "image": "https://burst.shopifycdn.com/photos/footwear-close-up-man-tying-shoelace-from-side.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "Nike",
+      "price": 5000,
+      "category": "shoes",
+      "gender": "male",
+      "id": 18,
+      "sales": 180
+    },
+    {
+      "name": "T-Shirt",
+      "image": "https://burst.shopifycdn.com/photos/simple-beige-mens-shirt.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "H&M",
+      "price": 999,
+      "category": "top-wear",
+      "gender": "male",
+      "id": 19,
+      "sales": 387
+    },
+    {
+      "name": "T-Shirt",
+      "image": "https://burst.shopifycdn.com/photos/blue-t-shirt.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "Puma",
+      "price": 1499,
+      "category": "top-wear",
+      "gender": "male",
+      "id": 20,
+      "sales": 496
+    },
+    {
+      "name": "Shoe",
+      "image": "https://burst.shopifycdn.com/photos/girl-has-a-sit.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "Nike",
+      "price": 5500,
+      "category": "shoes",
+      "gender": "kids",
+      "id": 21,
+      "sales": 30
+    },
+    {
+      "name": "Shirt",
+      "image": "https://burst.shopifycdn.com/photos/small-boy-in-white-shirt-and-grey-hat.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "Adidas",
+      "price": 1699,
+      "category": "top-wear",
+      "gender": "kids",
+      "id": 22,
+      "sales": 53
+    },
+    {
+      "name": "T-Shirt",
+      "image": "https://burst.shopifycdn.com/photos/little-blond-boy-running-holding-his-pants-up.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "H&M",
+      "price": 799,
+      "category": "top-wear",
+      "gender": "kids",
+      "id": 23,
+      "sales": 124
+    },
+    {
+      "name": "T-Shirt",
+      "image": "https://burst.shopifycdn.com/photos/distressed-kids-jeans.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "Nike",
+      "price": 2100,
+      "category": "top-wear",
+      "gender": "kids",
+      "id": 24,
+      "sales": 412
+    },
+    {
+      "name": "T-Shirt",
+      "image": "https://burst.shopifycdn.com/photos/kids-whale-shirt.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "Adidas",
+      "price": 1100,
+      "category": "top-wear",
+      "gender": "kids",
+      "id": 25,
+      "sales": 89
+    },
+    {
+      "name": "T-Shirt",
+      "image": "https://burst.shopifycdn.com/photos/kids-t-shirt.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "brand": "Puma",
+      "price": 3100,
+      "category": "top-wear",
+      "gender": "kids",
+      "id": 26,
+      "sales": 195
     }
   ]
 }
